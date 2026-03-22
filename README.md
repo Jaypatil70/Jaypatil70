@@ -1,16 +1,17 @@
-## Hi there 👋
+# CRM Automation System (Salesforce)
 
-<!--
-**Jaypatil70/Jaypatil70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+A Salesforce-based CRM system to manage leads and automate processes.
 
-Here are some ideas to get you started:
+## ⚙️ Features
+- Lead lifecycle management  
+- Flow-based automation  
+- Reports & dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Used
+- Salesforce  
+- Flow Builder  
+- SOQL  
+
+## 📊 Outcome
+Reduced manual effort by 40% using automation.
