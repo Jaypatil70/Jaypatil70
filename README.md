@@ -2,8 +2,8 @@
 <h3 align="center">👨‍💻 Salesforce Developer | ⚙️ CRM Automation Enthusiast | 🎓 IT Graduate</h3>
 
 <p align="center">
-  <!-- IMPORTANT: Replace 'your-github-username' inside the urls below with your actual GitHub username! -->
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- IMPORTANT: Replace 'Jaypatil70' inside the urls below with your actual GitHub username! -->
+  <img src="https://komarev.com/ghpvc/?username=Jaypatil70&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -73,6 +73,6 @@
 
 ---
 <p align="center">
-  <!-- IMPORTANT: Replace 'your-github-username' below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- IMPORTANT: Replace 'Jaypatil70' below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaypatil70&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
