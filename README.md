@@ -1,17 +1,40 @@
-# CRM Automation System (Salesforce)
+# 👋 Hi, I'm Jay Patil
 
-## 📌 Description
-A Salesforce-based CRM system to manage leads and automate processes.
+🚀 Salesforce Developer | CRM Automation Enthusiast  
+📍 Pune, India  
 
-## ⚙️ Features
-- Lead lifecycle management  
-- Flow-based automation  
-- Reports & dashboards  
+---
 
-## 🛠 Tech Used
-- Salesforce  
-- Flow Builder  
-- SOQL  
+## 🔧 Skills
+- Salesforce Administration  
+- Flow Builder (Automation)  
+- Apex & SOQL (Basics)  
+- Reports & Dashboards  
+- Data Modeling  
 
-## 📊 Outcome
-Reduced manual effort by 40% using automation.
+---
+
+## 🚀 Projects
+
+### 🔹 CRM Automation System
+- Built lead management system using custom objects  
+- Automated lead assignment using Flow  
+- Created dashboards for performance tracking  
+
+### 🔹 Student Management System
+- Designed scalable data model  
+- Applied validation rules for data accuracy  
+- Generated reports for insights  
+
+---
+
+## 🛠 Tools & Platforms
+- Salesforce Lightning  
+- Data Loader  
+- Trailhead  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- Email: jaypatil.dev@gmail.com
